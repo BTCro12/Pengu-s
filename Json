@@ -1,0 +1,34 @@
+{
+  "name": "Pengu's Coin",
+  "symbol": "PENGU",
+  "description": "Pengu's Coin – the icy meme token of the Ice Block Chain. WADDLE & HODL – TO THE ICE MOON!",
+  "image": "https://raw.githubusercontent.com/BTCro12/Pengu-s/main/IMG-20251201-WA0007.jpg",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Penguin"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Ice Block Chain"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Arctic"
+    },
+    {
+      "trait_type": "Motto",
+      "value": "Waddle & HODL"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BTCro12/Pengu-s/main/IMG-20251201-WA0007.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  }
+}
